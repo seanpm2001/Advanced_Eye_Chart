@@ -1,0 +1,5 @@
+Eye chart randomizer + printer
+
+Expanded:
+
+The program can be distributed in various languages (Python, Perl, Pascal, Java, etc.) as a mini application
